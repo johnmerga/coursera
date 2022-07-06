@@ -1,0 +1,4 @@
+ Joe Waited For The Train. "joe" = Subject, "waited" = Verb.
+ Joe Waited For The Train. "joe" = Subject, "waited" = Verb. The Train Was Late
+ Joe Waited For The Train. "joe" = Subject, "waited" = Verb. The Train Was Late Mary And Samantha Took The Bus
+ Joe Waited For The Train. "joe" = Subject, "waited" = Verb. The Train Was Late Mary And Samantha Took The Bus I Looked For Mary And Samantha At The Bus Station

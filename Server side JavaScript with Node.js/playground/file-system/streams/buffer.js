@@ -1,0 +1,6 @@
+const buffer1= Buffer.alloc(50)
+buffer1.write('hello this is test from buffer training')
+const text = buffer1.toString('utf-8')
+console.log(text)
+console.log(Buffer.isBuffer(buffer1))
+console.log(buffer1.length)
