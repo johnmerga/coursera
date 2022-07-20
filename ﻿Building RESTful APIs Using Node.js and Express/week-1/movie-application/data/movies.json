@@ -25,10 +25,10 @@
       "rating": "9.4"
     },
     {
-      "id": 6,
       "movieName": "Gravity",
       "director": "Alfonso Cuarón",
-      "rating": "9.6"
+      "rating": "5.6",
+      "id": 6
     },
     {
       "id": 7,
