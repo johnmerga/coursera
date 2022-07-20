@@ -48,9 +48,7 @@ const getProductById = function (id, done) {
     done(err);
   } //end of try catch
 };
-getProductById(81, (err, data) => {
-  console.log(data);
-});
+
 
 //The saveProductDetails method will take productDetails and done as callback
 //It will read the product.json file
