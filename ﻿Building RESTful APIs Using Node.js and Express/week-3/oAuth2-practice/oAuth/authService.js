@@ -26,12 +26,4 @@ const getGitHubAccessToken = (code, done) => {
     });
 };
 
-getGitHubAccessToken("e6b03ba2a80b8d964297", (err, token) => {
-  if (err) {
-    console.log(err);
-  } else {
-    console.log(token);
-  }
-});
-
 module.exports = { getGitHubAccessToken };
